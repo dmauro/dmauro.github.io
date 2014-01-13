@@ -3,7 +3,7 @@ Projects
 ###DrawQuest###
 [drawquest.com](http://drawquest.com)
 
-DrawQuest is a social drawing app with a very simple toolset and daily challenges making it easy for anyone to make a drawing everyday. I helped maintain the app and was crucial to bringing the app to iPhone/iPod Touch and iOS 7.
+DrawQuest is a social drawing app with a very simple toolset and daily challenges making it easy for anyone to make a drawing everyday. I help maintain the app and was crucial to bringing the app to iPhone/iPod Touch and iOS 7.
 
 ![DrawQuest screenshot](images/drawquest.jpg)
 
